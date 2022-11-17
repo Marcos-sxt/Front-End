@@ -1,0 +1,214 @@
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+#menu {
+    background-color: antiquewhite;
+}
+
+#menu li {
+    display: inline;
+    padding: 16px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#menu li a:hover{
+    font-size: 80px;
+    color: grey;
+}
+
+.background {
+    background-color: blue;
+}
+
+.tm-social {
+    width: 85px;
+    height: 50px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.centerleft {
+    text-align: left;
+}
+
+.centerright {
+    text-align: right;
+}
+
+.branco {
+    color: white;
+}
+
+.padleft{
+    padding-left: 1170px;
+}
+
+.padright{
+    padding-right: 50px;
+}
+
+.iconFlutador {
+    padding-right:100px;
+    padding-left: 200px;
+}
+
+.iconDificuldade {
+    padding-right: 200px;
+}
+
+.TextVisaoGeral {
+    padding-right: 100px;
+}
+
+.KaynOCS {
+    padding-bottom: 50px;
+}
+
+.Habilidades {
+    font-size: 70px;
+    font-family: beaufort-pro, serif;
+    font-style: oblique;
+    font-weight: 10000;
+}
+
+.skillIconSize {
+    width: 20px;
+    height: 20px;
+}
+
+.KaynPassiveDiv {
+    padding-left: 100px;
+    padding-right: 50px;
+    
+}
+
+.PassiveContainer {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.PassiveVideo {
+    align-items: center;
+}
+
+
+.KaynQDiv {
+    padding-left: 100px;
+    padding-right: 250px;
+    
+}
+
+.QContainer {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.QVideo {
+    align-items: center;
+    padding-left: 10px;
+}
+
+.KaynWDiv {
+   padding-right: 130px;
+   padding-left: 105px;
+    
+}
+
+.WContainer {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.WVideo {
+    align-items: center;
+}
+
+.KaynEDiv {
+    padding-right: 250px;
+    padding-left: 105px;
+ }
+ 
+ .EContainer {
+     display: flex;
+     flex-flow: row;
+     justify-content: center;
+     align-items: center;
+     padding-bottom: 50px;
+ }
+ 
+ .EVideo {
+     align-items: center;
+     padding-left: 100px;
+    }
+
+    .KaynRDiv {
+        align-items: center;
+        padding-right: 0px;
+        padding-left: 105px;
+    }
+
+    .RContainer {
+        display: flex;
+        flex-flow: row;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 50px;
+    }
+
+    .RVideo {
+        align-items: center;
+        padding-left: 10px;
+    }
+
+    .kaynSkin0 {
+        width: 500px;
+        height: 300px;
+    }
+
+    .kaynSkin1 {
+        width: 500px;
+        height: 300px;
+    }
+
+    .kaynSkin2 {
+        width: 500px;
+        height: 300px;
+    }
+
+    .kaynSkin3 {
+        width: 500px;
+        height: 300px;
+    }
+
+    .kaynSkin4 {
+        width: 500px;
+        height: 300px;
+    }
+
+    .kaynSkin5 {
+        width: 500px;
+        height: 300px;
+    }
