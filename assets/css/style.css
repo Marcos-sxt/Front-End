@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.logotech {
+    width: 50px;
+    height: 50px;
+}
+
+#footer {
+    background-color : linear-gradient(to bottom right, blue, white);
+}
+
