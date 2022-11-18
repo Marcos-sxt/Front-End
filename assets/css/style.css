@@ -1,0 +1,62 @@
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.logotech {
+    width: 560px;
+    height: 170px;
+}
+
+#footer {
+    background-color : linear-gradient(to bottom right, blue, white);
+}
+
+.transicao {
+    transition: all .5s;
+}
+
+.sobrenos:hover {
+    border-radius: 25px;
+    background: #00c3ff;
+    width: 90px;
+    height: 40px;
+}
+
+.contato:hover {
+    border-radius: 25px;
+    background: #00c3ff;
+    width: 75px;
+    height: 40px;
+}
+
+.home:hover {
+    border-radius: 25px;
+    background: #00c3ff;
+    width: 65px;
+    height: 40px;
+}
+
+.home {
+    padding-left: 5px;
+}
+
+.ajuda:hover {
+    border-radius: 25px;
+    background: #00c3ff;
+    width: 60px;
+    height: 40px;
+}
+
+.atuacao {
+    border-radius: 25px;
+    background: #00c3ff;
+    width: 75px;
+    height: 40px;
+}
+
+.faqpaddingtop {
+    padding-top: 20px;
+}
