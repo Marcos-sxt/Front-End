@@ -1,0 +1,20 @@
+.caixa {
+    background-color: #3F51B5 !important;
+}
+
+.titulo {
+    color: white !important;
+     font-weight: bold !important;
+}
+
+.botao {
+    border-color: white !important;
+    background-color: #3F51B5 !important;
+    color: white !important
+}
+
+.postagens {
+    background-color: white !important;
+}
+/* 
+"!important" pode ser usado para da prioridade a um elemento */
