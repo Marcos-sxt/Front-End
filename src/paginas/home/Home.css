@@ -1,0 +1,21 @@
+.caixa{
+    background-image: url('https://images.hdqwalls.com/download/devil-may-cry-5-4k-8l-1280x720.jpg');
+    background-size: contain;
+    min-height: 200vh;
+    width: 100px;
+}
+
+.titulo{
+   color: rgb(0, 0, 0) !important;
+   font-weight: bold !important;
+}
+
+.botao{
+    border-color: rgb(0, 0, 0) !important;
+    background-color: #000000;
+    color: rgb(255, 255, 255) !important;
+}
+
+.postagens{
+    background-color: rgb(255, 255, 255);
+}
