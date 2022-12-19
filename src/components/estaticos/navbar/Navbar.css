@@ -1,0 +1,19 @@
+.cursor{
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.Toolbar{
+    background-color: rgb(8, 85, 93) ;
+    justify-content: "center";
+}
+
+.bgcolor{
+    background-color: #003918 !important;
+}
